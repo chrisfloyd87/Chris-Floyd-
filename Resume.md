@@ -3,9 +3,12 @@
 ## Chris Floyd
  ### Education
  University of Missouri 
+ 
  Bachelor of General Studies
+ 
  GPA: 3.75
- Expected Graduation Date: Dec 2023
+ 
+ Expected Graduation Date: December 2023
 ### Professional Experience
 **Arkansas Valley Feather Company, California, MO** 
 Plant and Dye Shop Manager (May 2017- January 2019)
