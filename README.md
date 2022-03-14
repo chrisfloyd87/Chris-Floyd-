@@ -3,4 +3,4 @@
 
 
 Welcome to my site. Feel free to take a look around and get more familiar with the place. 
-![enter image description here](Screenshot 2022-03-14 123802.png)
+![enter image description here](https://github.com/chrisfloyd87/Midterm1000/blob/a97d5bc42a7260e3a81945569f9eaf2b0cd9ee3b/Screenshot%202022-03-14%20123802.png)
