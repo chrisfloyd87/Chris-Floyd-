@@ -3,4 +3,9 @@
 
 
 Welcome to my site. Feel free to take a look around and get more familiar with the place. 
-![me](https://github.com/chrisfloyd87/Midterm1000/blob/a97d5bc42a7260e3a81945569f9eaf2b0cd9ee3b/Screenshot%202022-03-14%20123802.png)
+<!DOCTYPE html>
+<html>
+<body>
+  <img src="https://github.com/chrisfloyd87/Midterm1000/blob/63ab3d53008b62f4e234a4d75bd45b0de117cebd/Screenshot%202022-03-14%20123802.png" alt="Me" style="width:348px;height:291px;">
+</body>
+</html>
