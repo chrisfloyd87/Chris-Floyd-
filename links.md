@@ -10,4 +10,4 @@
 
 [YouTube-Tax Lecture](https://youtu.be/aQFr6IWTUIA)
 
-[YouTube-Letters to a Young Scientist](https://youtu.be/ZBxMGfpzzTA)
+[YouTube-Letters to a Young Scientist Book Review](https://youtu.be/ZBxMGfpzzTA)
