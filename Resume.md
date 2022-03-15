@@ -3,7 +3,7 @@
 # Resume
 ## Chris Floyd
 
- ### Education
+### Education
  
  University of Missouri 
  
