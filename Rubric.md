@@ -12,7 +12,7 @@
  
  **- Github Images:** Picture on front page
  
- **-  Web Images:** Picture in About Me is from Google images
+ **-  Web Images:** Picture in About Me is from Flickr
  
  **-  Lists:** Resume contains a list and this is a list
  
