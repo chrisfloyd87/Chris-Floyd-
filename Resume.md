@@ -2,7 +2,9 @@
 [About Me](AboutMe.md) [Resume](Resume.md) [Links](links.md) [Contact](contact.md)
 # Resume
 ## Chris Floyd
+
  ### Education
+ 
  University of Missouri 
  
  Bachelor of General Studies
@@ -32,7 +34,6 @@ Combat Medic October 2009- August 2016
  
  ### Awards and Honors
  
-
  - Dean's List fall 2021 (Mizzou)
  - Army Commendation Medal
  - Afghanistan Campaign Medal with campaign star (2)
