@@ -32,7 +32,7 @@ Combat Medic October 2009- August 2016
  - Instructed emergency medical skills to over 1300 individuals of different knowledge and skill levels in preparation for combat deployments
  - Served as small arms master weapons instructor and ammunition specialist for battalion
  
- ### Awards and Honors
+### Awards and Honors
  
  - Dean's List fall 2021 (Mizzou)
  - Army Commendation Medal
