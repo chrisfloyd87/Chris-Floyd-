@@ -12,7 +12,7 @@ Currently living in Columbia Missouri with son Nolan (6) and dog Marshall (3).
 Hobbies include playing music, learning about computers and business, going to the gym, and camping.
 Random fact: Was coach of 2015 Fort Bliss kickball league champions. </p>
 
-  <img src="https://github.com/chrisfloyd87/Midterm1000/blob/3afd29b54aadea8455056f8874b3886ed71fec79/67539740_10162117958985125_7550318568089321472_o.jpg" alt="Nolan and I" style="width:348px;height:182px;">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/195227753@N06/51940652514/in/album-72177720297378534/" title="Screenshot 2022-03-14 131918"><img src="https://live.staticflickr.com/65535/51940652514_959396921f.jpg" width="407" height="500" alt="Screenshot 2022-03-14 131918"></a>
   
 </body>
 </html>
