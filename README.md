@@ -1,5 +1,5 @@
 # Chris Floyd
-[Home](https://github.com/chrisfloyd87/Midterm1000/blob/587cc19be7093a4b149aa515723b074a459391ed/README.md) 
+[Home](README.md) 
 [About Me](AboutMe.md) [Resume](Resume.md) [Links](links.md) [Contact](contact.md)
 
 
