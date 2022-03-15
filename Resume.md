@@ -20,7 +20,7 @@ Plant and Dye Shop Manager (May 2017- January 2019)
 Combat Medic October 2009- August 2016
 
 ### Leadership Experience
-**Arkansas Valley Feather**
+**Arkansas Valley Feather Co.**
 
  - Oversaw daily operations at both plant and dye shop resulting in increased productivity
  - Developed and implemented inventory control procedures that resulted in increased accountability and production
